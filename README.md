@@ -1,5 +1,7 @@
 # EX-NO-14-HASH-ALGORITHM
+## NAME: J.PREM PRASANTH
 
+## REGISTER NUMBER:2305001028
 ## AIM:
 To implement HASH ALGORITHM
 
@@ -71,6 +73,8 @@ int main() {
 ```
 
 ## Output:
+<img width="736" height="304" alt="image" src="https://github.com/user-attachments/assets/b364d195-75e0-4c1b-a683-e2bd007a0443" />
+
 
 
 ## Result:
